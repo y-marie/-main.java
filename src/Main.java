@@ -61,18 +61,7 @@ class Main {          //System.out.println();
       // number --; １を引く時
     // 変数numberを出力
     System.out.println(number3);
-    
 
-
-
-
-
-
-
-
-
-
-    
     
   }
 }
